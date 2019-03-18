@@ -8,3 +8,6 @@ end
 def raise_hand
   phrase = "Pick me!"
   return phrase.times(10)
+end
+
+end
