@@ -7,6 +7,7 @@ end
 
 def raise_hand
   super
+  puts phrase
 end
 
 
