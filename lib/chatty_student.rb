@@ -6,7 +6,7 @@ end
 
 def raise_hand
   phrase = "Pick me!"
-  30.times do |x|
+  10.times do |x|
   puts phrase
   end
 
